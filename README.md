@@ -1,138 +1,105 @@
-🚀 NumPy Analyzer
-A menu-driven Python application built using NumPy and Object-Oriented Programming (OOP) concepts. This project allows users to create, manipulate, analyze, and perform statistical operations on NumPy arrays through an interactive command-line interface.
+📊 NUMPY ANALYZER
 
-📖 Project Overview
-The NumPy Analyzer project provides a user-friendly environment for working with NumPy arrays. Users can create 1D, 2D, and 3D arrays, perform mathematical operations, manipulate data through indexing and slicing, combine or split arrays, search and sort values, and generate statistical insights.
+Python Based Data Analytics Project
 
-🎯 Features
-✅ Array Creation
-Create 1D Arrays
-Create 2D Arrays
-Create 3D Arrays
-Dynamic user input
-Input validation
-✅ Indexing and Slicing
-Element access using indexing
-Slice 1D arrays
-Slice 2D arrays
-Slice 3D arrays
-✅ Mathematical Operations
-Addition
-Subtraction
-Multiplication
-Division
-Dot Product
-Matrix Multiplication
-✅ Combine and Split Arrays
-Combine arrays using np.concatenate()
-Split arrays using np.split()
-Row-wise splitting
-Column-wise splitting
-✅ Search, Sort and Filter
-Search specific values
-Sort arrays in ascending order
-Sort arrays in descending order
-Filter values greater than a specified number
-✅ Statistical Operations
-Sum
-Mean
-Median
-Standard Deviation
-Variance
-Minimum Value
-Maximum Value
-Percentile
-Correlation Coefficient
-✅ Exception Handling
-Invalid input checking
-Dimension validation
-Index validation
-Division by zero prevention
-Matrix compatibility checking
-🛠 Technologies Used
-Python 3.x
-NumPy
-Object-Oriented Programming (OOP)
-📂 Project Structure
-NumPy-Analyzer/
-│
-├── numpy_analyzer.py
-├── README.md
-└── requirements.txt
-🔥 OOP Concepts Used
-Constructor
-def __init__(self):
-    self.array = None
-Class Method
-@classmethod
-def create_object(cls):
-    return cls()
-Static Method
-@staticmethod
-def show_message(message):
-    print(message)
-Encapsulation
-All functionalities are organized inside the DataAnalytics class.
+---
 
-📋 Main Menu
-===== NUMPY ANALYZER =====
+📌 About The Project
 
-1. Create NumPy Array
-2. Mathematical Operations
-3. Combine or Split Arrays
-4. Search, Sort, or Filter Arrays
-5. Aggregates and Statistics
-6. Exit
-▶️ Installation
-Install NumPy:
+NumPy Analyzer is a menu-driven Python project developed using the NumPy library. This project allows users to create and perform different operations on 1D, 2D, and 3D NumPy arrays.
+
+It provides various mathematical, statistical, and array manipulation operations through a simple user-friendly menu.
+
+🛠️ Technologies Used
+
+- Programming Language: Python
+- Library: NumPy
+- IDE: Visual Studio Code
+
+✨ Project Modules
+
+1. Array Creation
+
+- Create 1D, 2D and 3D arrays.
+- Accept array elements from the user.
+- Display the created array.
+
+2. Indexing and Slicing
+
+- Access individual array elements.
+- Extract specific elements using slicing.
+- Support for 1D, 2D and 3D arrays.
+
+3. Mathematical Operations
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Dot Product
+- Matrix Multiplication
+
+4. Array Combination and Splitting
+
+- Combine two arrays.
+- Split arrays into equal parts.
+- Split rows and columns.
+
+5. Searching, Sorting and Filtering
+
+- Search specific values.
+- Sort elements in ascending order.
+- Sort elements in descending order.
+- Filter elements using conditions.
+
+6. Statistical Operations
+
+- Sum
+- Mean
+- Median
+- Standard Deviation
+- Variance
+- Minimum and Maximum
+- Percentile
+- Correlation
+
+⚙️ Installation
+
+Install the NumPy library using the following command:
 
 pip install numpy
-Or create a requirements.txt file:
 
-numpy
-Install dependencies:
+▶️ How to Run
 
-pip install -r requirements.txt
-🚀 How to Run
-python numpy_analyzer.py
-💻 Sample Output
-===== NUMPY ANALYZER =====
+1. Open Visual Studio Code.
+2. Create a Python file named "project8.py".
+3. Copy and save the project code.
+4. Open the terminal.
+5. Execute the command:
 
-1. Create NumPy Array
-2. Mathematical Operations
-3. Combine or Split Arrays
-4. Search, Sort, or Filter Arrays
-5. Aggregates and Statistics
-6. Exit
+python project8.py
 
-Enter your choice: 1
+📂 Project Structure
 
-1. 1D Array
-2. 2D Array
-3. 3D Array
+NumPy_Analyzer/
+│
+├── project8.py
+└── README.md
 
-Enter your choice: 1
+🎯 Objectives
 
-Enter numbers separated by space:
-10 20 30 40
+- To understand NumPy arrays.
+- To learn 1D, 2D and 3D array operations.
+- To perform mathematical calculations using NumPy.
+- To understand statistical functions.
+- To improve practical Python programming skills.
 
-Array created successfully:
-[10. 20. 30. 40.]
-📚 Learning Outcomes
-This project helps in understanding:
+📝 Conclusion
 
-NumPy Array Creation
-Indexing and Slicing
-Mathematical Operations
-Array Combination and Splitting
-Searching, Sorting and Filtering
-Statistical Analysis using NumPy
-Object-Oriented Programming in Python
-Exception Handling
-🔮 Future Enhancements
-GUI using Tkinter
-CSV File Support
-Excel File Support
-Data Visualization using Matplotlib
-Pandas Integration
-Analysis Report Export
+The NumPy Analyzer project provides practical knowledge of Python and NumPy. It helps users understand array manipulation, mathematical calculations and statistical analysis. This project also improves programming and problem-solving skills.
+
+---
+
+Project Name: NumPy Analyzer
+Project Type: Python Data Analytics Project
+Library Used: NumPy
