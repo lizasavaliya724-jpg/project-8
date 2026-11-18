@@ -4,33 +4,33 @@ Python Based Data Analytics Project
 
 ---
 
-📌 About The Project
+📌 ABOUT THE PROJECT
 
 NumPy Analyzer is a menu-driven Python project developed using the NumPy library. This project allows users to create and perform different operations on 1D, 2D, and 3D NumPy arrays.
 
 It provides various mathematical, statistical, and array manipulation operations through a simple user-friendly menu.
 
-🛠️ Technologies Used
+🛠️ TECHNOLOGIES USED
 
 - Programming Language: Python
 - Library: NumPy
 - IDE: Visual Studio Code
 
-✨ Project Modules
+✨ PROJECT MODULES
 
-1. Array Creation
+1. ARRAY CREATION
 
 - Create 1D, 2D and 3D arrays.
 - Accept array elements from the user.
 - Display the created array.
 
-2. Indexing and Slicing
+2. INDEXING AND SLICING
 
 - Access individual array elements.
 - Extract specific elements using slicing.
 - Support for 1D, 2D and 3D arrays.
 
-3. Mathematical Operations
+3. MATHEMATICAL OPERATIONS
 
 - Addition
 - Subtraction
@@ -39,20 +39,20 @@ It provides various mathematical, statistical, and array manipulation operations
 - Dot Product
 - Matrix Multiplication
 
-4. Array Combination and Splitting
+4. ARRAY COMBINATION AND SPLITTING
 
 - Combine two arrays.
 - Split arrays into equal parts.
 - Split rows and columns.
 
-5. Searching, Sorting and Filtering
+5. SEARCHING, SORTING AND FILTERING
 
 - Search specific values.
 - Sort elements in ascending order.
 - Sort elements in descending order.
 - Filter elements using conditions.
 
-6. Statistical Operations
+6. STATISTICAL OPERATIONS
 
 - Sum
 - Mean
@@ -63,13 +63,13 @@ It provides various mathematical, statistical, and array manipulation operations
 - Percentile
 - Correlation
 
-⚙️ Installation
+⚙️ INSTALLATION
 
 Install the NumPy library using the following command:
 
 pip install numpy
 
-▶️ How to Run
+▶️ HOW TO RUN THE PROJECT
 
 1. Open Visual Studio Code.
 2. Create a Python file named "project8.py".
@@ -79,14 +79,14 @@ pip install numpy
 
 python project8.py
 
-📂 Project Structure
+📂 PROJECT STRUCTURE
 
 NumPy_Analyzer/
 │
 ├── project8.py
 └── README.md
 
-🎯 Objectives
+🎯 PROJECT OBJECTIVES
 
 - To understand NumPy arrays.
 - To learn 1D, 2D and 3D array operations.
@@ -94,12 +94,8 @@ NumPy_Analyzer/
 - To understand statistical functions.
 - To improve practical Python programming skills.
 
-📝 Conclusion
+📝 CONCLUSION
 
 The NumPy Analyzer project provides practical knowledge of Python and NumPy. It helps users understand array manipulation, mathematical calculations and statistical analysis. This project also improves programming and problem-solving skills.
 
 ---
-
-Project Name: NumPy Analyzer
-Project Type: Python Data Analytics Project
-Library Used: NumPy
